@@ -1,0 +1,11 @@
+preferred_n: PASS
+preferred_r2: PASS
+preferred_adj_r2: PASS
+preferred_max_vif: PASS
+packaging_alt_r2: PASS
+broad_alt_r2: PASS
+level_diag_r2: PASS
+level_diag_max_vif: PASS
+supply_only_r2: PASS
+pre_sep_2025_r2: PASS
+mixed_timing_r2: PASS
